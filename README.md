@@ -1,48 +1,24 @@
 # Programming Survey Form - Window's Form's
 
-The point of this program is to utilize capabilitties of the Visual Studio's Windows Form template to create a Programming Survey Form
+This is a bootstrap template I found that I could mess around with.  This shows that I can go through a Web devlopment project and alter elements and learn concepts.
 
 ## Example Output
 
 ![Sample Output](README.jpg)
 
 ## Analysis Steps
-Main - Create a Survey form that's realted to Programming.
+Alter the template
 
-	1)  Start with a Wireframe 
-	2)  Start dragging and dropping controls based on the Window's design.
-	3)  Make sure to implement on click for submit button and checkboxes/radio buttons
-	4)  Text Area needs to display what the user clicked/typed in. 
-
-### Design
-
-How did you approach your program design? Did you use multiple classes to define various objects?
-
-
-```
-There are two files used.  One is the logic for the action events and the other is for all of code related to the controls placed on the form, built behind the scene.
-
-```
-
-### Testing
-
-A step by step series of examples that you developed to properly test the program. 
-
-Fill out the form 
-```
-Make sure the form displays the correct info based upon what user entered.
-```
-
-Error Handling
-```
-Set up logic for when a user doesn't enter information in.  
-```
+	1)  Mess around with google dev tools and change the css of certain elements
+	2)  Experiment with the functionallity
+	3)  Change the color theme
+	4)  change some of the font
+	5)  Add in some bio about myself and change some of the icons
+	6)  Add in my certifications and have them open in a new page on click.
 
 ## Notes
 
-There could have been more error handling - I could have not let the user click the submit button unless all the fields had information in them. 
-
-The resizeabillity of the web page is a problem.  the elements of the page aren't programmed to fit correctly with resizing. 
+This is basically a learning experience about what I could use boot strap 4.  I'm hoping to actually make an online resume without having to use a framework.   
 
 ## Do not change content below this line
 ## Adapted from a README Built With
